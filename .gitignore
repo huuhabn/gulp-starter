@@ -1,0 +1,15 @@
+.DS_Store
+
+### Bower ###
+bower_components/
+.bower-cache
+.bower-registry
+.bower-tmp
+
+### Node ###
+node_modules/
+npm-debug.log
+
+assets/
+## Source map files (local gulp tasks will still produce .map for debug use) ###
+*.map

@@ -1,0 +1,27 @@
+{
+  "name": "gulp-starter",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Huu Ha"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/huuhabn/gulp-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "admin-lte": "^2.3.8",
+    "bootstrap": "3.3.7",
+    "font-awesome": "4.7.0",
+    "ionicons": "2.0.1",
+    "jquery-legacy": "jquery#1.12.4",
+    "jquery-migrate": "1.4.0",
+    "Sortable": "1.4.2",
+    "spectrum": "1.8.0"
+  }
+}
