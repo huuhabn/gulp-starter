@@ -4,3 +4,8 @@
 // Frontend Website specific
 @import "frontend/_variables";
 @import "frontend/_pages";
+.main-success{
+    h2{
+        color: red;
+    }
+}

@@ -13,6 +13,7 @@
   "author": "Huu Ha",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.26.7",
     "del": "*",
     "gulp": "^3.8.11",
     "gulp-changed": "*",

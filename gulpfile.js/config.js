@@ -30,6 +30,7 @@ module.exports = {
 			],
 			// Files (JS / CSS / etc.) directly copy to destination folder
 			files: [
+				dir_theme + '/*'
 			]
 		},
 		dest: {
