@@ -5,6 +5,7 @@ bower_components/
 .bower-cache
 .bower-registry
 .bower-tmp
+package-lock.json
 
 ### Node ###
 node_modules/
